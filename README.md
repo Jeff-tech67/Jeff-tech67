@@ -1,6 +1,10 @@
-<h1 align="left">Tech Stack</h1>
+FULL STACK DEVELOPER | SOFTWARE ENGINEER
 
-###
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.geofrey._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geofrey-ndungi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/geofreyn) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/geofreyn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geofreyndunginjuguna@gmail.com) 
+
+# Tech Stack:
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
@@ -53,59 +57,48 @@
 </div>
 
 ###
+# GitHub Stats:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/geofrey-ndungi-b83939390/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.geofrey._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/geofreyn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-  <a href="geofreyndunginjuguna@gmai.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<img 
+  src="https://github-readme-stats.shion.dev/api?username=Jeff-tech67&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"
+  width="400"
+  height="180"
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Jeff-tech67&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+  width="400"
+  height="180"
+/>
+
+<img 
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jeff-tech67&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  width="400"
+  height="180"
+/>
+
+</div>
+  
 </div>
 
-###
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jeff-tech67&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeff-tech67&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Jeff-tech67/Jeff-tech67/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jeff-tech67&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeff-tech67/Jeff-tech67/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeff-tech67/Jeff-tech67/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jeff-tech67/Jeff-tech67/pacman-output/galaga-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/736x/c9/69/d1/c969d15a8b4b6299d8e0d2eb2c0c17f3.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/e6/80/ba/e680ba726588b4b98b09c2b6122b29d3.jpg"  />
-</div>
-
-###
-
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/736x/d5/b3/1d/d5b31df651b31c326d56a19fe44e5b79.jpg"  />
-</div>
-
-###
+---
+[![](https://komarev.com/ghpvc/?username=Jeff-tech67&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
