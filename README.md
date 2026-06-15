@@ -47,8 +47,6 @@ FULL STACK DEVELOPER | SOFTWARE ENGINEER
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="60" alt="vite logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="60" alt="vim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
@@ -59,27 +57,16 @@ FULL STACK DEVELOPER | SOFTWARE ENGINEER
 ###
 # GitHub Stats:
 
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.shion.dev/api?username=Jeff-tech67&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"
-  width="400"
-  height="180"
-/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=Jeff-tech67&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-  width="400"
-  height="180"
-/>
-
-<img 
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jeff-tech67&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-  width="400"
-  height="180"
-/>
-
-</div>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=Jeff-tech67&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="400" height="180"/>
+</td>
+<td>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jeff-tech67&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="180"/>
+</td>
+</tr>
+</table>
   
 </div>
 
